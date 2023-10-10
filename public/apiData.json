@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Concerts and Music Festivals",
+    "image": "https://i.ibb.co/12hM6j6/DT.jpg",
+    "price": "$50 - $150",
+    "short_description": "Experience the thrill of live music and performances from your favorite artists.",
+    "long_description": "Immerse yourself in the world of music and entertainment with our Concerts and Music Festivals. Get ready for an unforgettable experience as you sway to the beats and melodies of your favorite artists. Feel the energy of the crowd as you sing along and dance to the music. From rock concerts to EDM festivals, we have a variety of musical genres to suit your taste. Join us for a night of pure musical bliss!"
+  },
+  {
+    "id": 2,
+    "name": "Theater and Performing Arts",
+    "image": "https://i.ibb.co/8M9kd1r/performing-art.jpg",
+    "price": "$30 - $100",
+    "short_description": "Enjoy captivating theater productions, ballets, and dance performances.",
+    "long_description": "Step into the world of drama, dance, and artistic expression with our Theater and Performing Arts events. Experience the magic of live theater with captivating productions that will leave you spellbound. From classic plays to avant-garde performances, our lineup offers a wide range of artistic experiences. Whether you're a fan of ballet, drama, or modern dance, you'll find something to delight your senses."
+  },
+  {
+    "id": 3,
+    "name": "Film Screenings and Premieres",
+    "image": "https://i.ibb.co/F4J8kVD/oscar3.jpg",
+    "price": "$12 - $25",
+    "short_description": "Be among the first to watch exclusive film screenings and premieres.",
+    "long_description": "Get ready for a cinematic adventure with our Film Screenings and Premieres. Be among the first to witness the magic of the silver screen as we showcase exclusive film screenings and premieres. Whether you're a film enthusiast or just looking for a fun night out, our events offer a chance to enjoy the latest movies in a thrilling atmosphere. Grab your popcorn and get ready for an unforgettable night at the movies!"
+  },
+  {
+    "id": 4,
+    "name": "Comedy Shows",
+    "image": "https://i.ibb.co/mG56kWg/comedy4.jpg",
+    "price": "$20 - $50",
+    "short_description": "Laugh out loud with top comedians and hilarious stand-up acts.",
+    "long_description": "Get ready to burst into laughter with our Comedy Shows. We bring you top comedians and hilarious stand-up acts that will leave you in stitches. Whether you're a fan of observational humor or witty one-liners, our comedy events promise an evening of non-stop laughter. Gather your friends and get ready for a side-splitting night of comedy!"
+  },
+  {
+    "id": 5,
+    "name": "Sports Events",
+    "image": "https://i.ibb.co/nfb9FNL/barca.jpg",
+    "price": "$25 - $200",
+    "short_description": "Cheer for your favorite teams and athletes in thrilling sports events.",
+    "long_description": "Get your game face on and join the excitement with our Sports Events. Whether you're a die-hard sports fan or just looking for some high-octane entertainment, our events offer the perfect opportunity to cheer for your favorite teams and athletes. Feel the adrenaline rush as you witness thrilling sports action up close. From basketball to soccer, we've got the sports action you crave!"
+  },
+  {
+    "id": 6,
+    "name": "Family-friendly Entertainment",
+    "image": "https://i.ibb.co/BN6ts6b/family.jpg",
+    "price": "$50 - $250",
+    "short_description": "Fun-filled events suitable for the whole family, including kids' shows and activities.",
+    "long_description": "Create lasting memories with your loved ones at our Family-friendly Entertainment events. We offer a wide range of fun-filled activities and shows suitable for the entire family. From entertaining kids' shows to interactive games and activities, there's something for everyone to enjoy. Bring the whole family and experience the joy of togetherness at our family-friendly events!"
+  }
+]

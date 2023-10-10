@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Dream Theater",
+      "albumName": "Metropolis Pt. 2: Scenes from a Memory",
+      "image": "https://i.ibb.co/6NHR7PR/pt2.jpg",
+      "price": "$150",
+      "short_description": "Metropolis Pt. 2: Scenes from a Memory is the fifth studio album and first concept album by American progressive metal band Dream Theater, released on October 26, 1999, through Elektra Records. It was recorded at BearTracks Studios in Suffern, New York, where the band had previously recorded their second studio album, Images and Words (1992), and the EP A Change of Seasons (1995)."
+      
+    },
+    {
+      "id": 2,
+      "name": "System of A Down",
+      "albumName": "Hypnotize",
+      "image": "https://i.ibb.co/4tbfBq2/soad.jpg",
+      "price": "$100",
+      "short_description": "Hypnotize is the fifth studio album by American heavy metal band System of a Down. It was released on November 22, 2005, one year following the album's completion, and six months after the release of its companion album Mezmerize. Mezmerize and Hypnotize both debuted at number one on the Billboard 200 albums chart. As of 2023, Hypnotize is System of a Down's most recent album release."
+      
+    },
+    {
+      "id": 3,
+      "name": "Avenged Sevenfold",
+      "albumName": "Nightmare",
+      "image": "https://i.ibb.co/mNG0FRt/Avenged-Sevenfold-Nightmare.png",
+      "price": "$25",
+      "short_description": "Nightmare is the fifth studio album by American heavy metal band Avenged Sevenfold, released on July 23, 2010, through Warner Bros. Records. It was produced by Mike Elizondo, mixed in New York City by audio engineer Andy Wallace, and mastered by Ted Jensen."
+      
+    },
+    {
+      "id": 4,
+      "name": "Dew-Scented",
+      "albumName": "Invocation",
+      "image": "https://i.ibb.co/BPxQsR6/dew.jpg",
+      "price": "$50",
+      "short_description": "Invocation is the eighth studio album by the German thrash metal/death metal band Dew-Scented, released in 2010 in Europe by Metal Blade Records[1] and in the United States by Prosthetic Records"
+      
+    }
+]
