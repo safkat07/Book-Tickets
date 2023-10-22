@@ -1,10 +1,8 @@
-import { Link, useLoaderData } from "react-router-dom";
+import {  useLoaderData } from "react-router-dom";
 import Banner from "../Banner/Banner";
-import SingleCardData from "../../Components/SingleCardData/SingleCardData";
 import FeatureArtist from "../FeatureArtist/FeatureArtist";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import OurPartners from "../OurPartners/OurPartners";
 import img1 from "../../assets/amazon.jpg";
 import img2 from "../../assets/unesco.png";
 import img3 from "../../assets/worldbank.png";
@@ -12,10 +10,9 @@ import img4 from "../../assets/laliga.jpg";
 import Footer from "../Footer/Footer";
 import AllCard from "../AllCard/AllCard";
 import { Toaster } from "react-hot-toast";
-
-import ShowExtraSection from "../../Components/ShowExtraSection/ShowExtraSection";
 import SecondExtraSection from "../secondExtraSection/secondExtraection";
 import ToTheTop from "../../Components/ToTheTop/ToTheTop";
+import Button from '@mui/material/Button';
 
 const Home = () => {
   AOS.init();
@@ -47,6 +44,7 @@ const Home = () => {
       {/* <OurPartners></OurPartners> */}
 
       <ToTheTop></ToTheTop>
+      {/* <Button variant="contained">Hello world</Button> */}
       <Footer></Footer>
     </div>
   );

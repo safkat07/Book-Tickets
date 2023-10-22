@@ -1,6 +1,7 @@
 import { Outlet } from "react-router-dom";
-import Navbar from "../Navbar/Navbar";
 import Footer from "../Footer/Footer";
+import Navbar from "../Navbar/Navbar";
+// import Navbar from "../../Provider/Navbar";
 
 const MainLayout = () => {
     const bgColor = {
@@ -17,6 +18,7 @@ const MainLayout = () => {
         // </div>
         <div className="  mx-auto" style={bgColor}>
             <div className="">
+            {/* <Navbar></Navbar> */}
             <Navbar></Navbar>
             </div>
             <div  style={bgColor}>
